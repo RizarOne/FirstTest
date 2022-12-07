@@ -1,2 +1,5 @@
 ﻿int
     float
+    int
+    int
+
